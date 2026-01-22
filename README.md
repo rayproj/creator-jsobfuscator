@@ -1,3 +1,3 @@
-[README](README/jsobf)
+[README](README/jsobf.md)
 
-- [obf options](README/jsobfOpt)
+- [obf options](README/jsobfOpt.md)
